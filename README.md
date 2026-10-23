@@ -1,6 +1,6 @@
 # Sudoku Battle: Brain Duel — Privacy Policy
 
-**Effective date:** 22 October 2026
+**Effective date:** 23 October 2026
 
 [English](#english) · [Türkçe](#türkçe)
 
@@ -16,7 +16,7 @@ why, and the choices you have. If you have a question or want your data deleted,
 
 - You can play offline without an account. Nothing about offline games leaves your device unless you allow
   anonymous analytics.
-- If you sign in, we store only what is needed to run your account, battles, friends and rankings.
+- If you sign in, we store only what is needed to run your account, battles and rankings.
 - We do not sell your data, and we do not track you across other companies' apps or websites.
 - You can delete your account and all of its data at any time in **Settings → Delete Account**.
 
@@ -38,15 +38,17 @@ Your display name, username, game statistics, badges and leaderboard results are
 - battle and daily challenge results: the finished board, time, mistakes, hints and score, plus a log of the
   moves you entered (used to check results are fair);
 - statistics such as games played, wins, losses and daily streaks;
-- friends and friend requests, players you block, and your choice of who may challenge you;
+- your coins: what each game earned, the board themes you unlocked, and your place in the coin rankings
+  (your display name and coins earned are shown to other players there);
+- players you block;
 - reports you send about other players: the reason and any text you add.
 
 Games you play offline stay on your device.
 
 **3. Push notifications (only if you allow them)**
 
-If you allow notifications, we store your device's push token so that we can tell you about challenges, friend
-requests and battle results. You can turn notifications off at any time in your iPhone's Settings.
+If you allow notifications, we store your device's push token so that we can tell you when an opponent is
+found and about battle results. You can turn notifications off at any time in your iPhone's Settings.
 
 **4. Anonymous usage and crash data (you decide)**
 
@@ -68,13 +70,18 @@ In the European Economic Area, the United Kingdom and Switzerland you are asked 
 personalised. You can change your choice at any time in **Settings → Privacy Choices**. We only allow ads
 suitable for a general audience.
 
+When you watch a short video to double a game's coins, the app gives AdMob your Sudoku Battle account number (a
+random identifier, not your name or email) and the game it is for. Google sends these back to our server to
+confirm the video was watched, so the coins can be added.
+
 Google's use of this information is described in Google's privacy policy:
 https://policies.google.com/technologies/partner-sites
 
 **6. Purchases**
 
-"Remove Ads" is a one-time in-app purchase handled entirely by Apple. We never see your payment details. The app
-reads the purchase only from Apple's App Store on your device.
+"Remove Ads" is a monthly subscription handled entirely by Apple. We never see your payment details. If you are
+signed in, the app sends the subscription's transaction record signed by Apple (product, transaction number and
+renewal date) to our server, so that games played during the subscription earn double coins.
 
 **7. Technical information**
 
@@ -83,7 +90,7 @@ against abuse, for example through rate limiting. We do not store it with your a
 
 ### How we use information
 
-- to provide the game: accounts, battles, daily challenges, rankings, friends and notifications;
+- to provide the game: accounts, battles, daily challenges, rankings and notifications;
 - to keep battles fair, for example by checking results and detecting impossible solving times;
 - to keep the community safe through blocking and reports;
 - to fix bugs and improve the app, if you allow analytics and crash reports;
@@ -98,7 +105,7 @@ personal data. We may disclose information if required by law.
 ### Retention and deletion
 
 We keep your account data for as long as your account exists. When you choose **Settings → Delete Account**,
-we permanently delete your account and everything linked to it, including results, statistics, friends, blocks,
+we permanently delete your account and everything linked to it, including results, statistics, coins, themes, blocks,
 reports you made and push tokens. We also revoke the app's access to your Apple ID. Results of finished
 battles no longer show your name to your opponent. Copies in backups are removed when those backups expire.
 
@@ -132,7 +139,7 @@ topladığını ve hangi seçeneklere sahip olduğunuzu açıklar. Sorularınız
 
 - Hesap açmadan çevrimdışı oynayabilirsiniz. Anonim analitiğe izin vermediğiniz sürece çevrimdışı oyunlarla
   ilgili hiçbir bilgi cihazınızdan çıkmaz.
-- Giriş yaparsanız yalnızca hesabınızı, düellolarınızı, arkadaşlarınızı ve sıralamaları çalıştırmak için
+- Giriş yaparsanız yalnızca hesabınızı, düellolarınızı ve sıralamaları çalıştırmak için
   gereken bilgileri saklarız.
 - Verilerinizi satmayız ve sizi başka şirketlerin uygulama veya web sitelerinde takip etmeyiz.
 - Hesabınızı ve tüm verilerini istediğiniz zaman **Ayarlar → Hesabı Sil** ile silebilirsiniz.
@@ -156,14 +163,16 @@ görünür.
 - düello ve Günlük Görev sonuçları: bitmiş tahta, süre, hatalar, ipuçları ve puan ile girdiğiniz hamlelerin
   kaydı (sonuçların adil olduğunu kontrol etmek için);
 - oynanan oyun, galibiyet, mağlubiyet ve günlük seri gibi istatistikler;
-- arkadaşlar ve arkadaşlık istekleri, engellediğiniz oyuncular ve size kimlerin meydan okuyabileceği tercihiniz;
+- coin'leriniz: her oyunun kazandırdığı coin, açtığınız tahta temaları ve coin sıralamasındaki yeriniz
+  (sıralamada görünen adınız ve kazandığınız coin diğer oyunculara gösterilir);
+- engellediğiniz oyuncular;
 - diğer oyuncular hakkında gönderdiğiniz şikâyetler: neden ve eklediğiniz açıklama.
 
 Çevrimdışı oynadığınız oyunlar cihazınızda kalır.
 
 **3. Bildirimler (yalnızca izin verirseniz)**
 
-Bildirimlere izin verirseniz, size düello davetleri, arkadaşlık istekleri ve düello sonuçları hakkında haber
+Bildirimlere izin verirseniz, size rakip bulunduğunda ve düello sonuçları hakkında haber
 verebilmek için cihazınızın bildirim anahtarını (push token) saklarız. Bildirimleri iPhone Ayarları'ndan istediğiniz
 zaman kapatabilirsiniz.
 
@@ -186,13 +195,18 @@ Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre'de reklamlar kişiselle�
 Seçiminizi istediğiniz zaman **Ayarlar → Gizlilik Seçenekleri** bölümünden değiştirebilirsiniz. Yalnızca genel
 izleyiciye uygun reklamlara izin veriyoruz.
 
+Bir oyunun coin'lerini 2 katına çıkarmak için kısa bir video izlediğinizde, uygulama AdMob'a Sudoku Battle hesap
+numaranızı (adınız veya e-postanız değil, rastgele bir kimlik) ve videonun hangi oyun için olduğunu iletir. Google
+bunları, videonun izlendiğini doğrulamak için sunucumuza geri gönderir; böylece coin'ler eklenebilir.
+
 Google'ın bu bilgileri nasıl kullandığı Google'ın gizlilik politikasında açıklanmıştır:
 https://policies.google.com/technologies/partner-sites
 
 **6. Satın alımlar**
 
-"Reklamları Kaldır" tamamen Apple tarafından yürütülen tek seferlik bir uygulama içi satın almadır. Ödeme
-bilgilerinizi hiçbir zaman görmeyiz. Uygulama satın alımı yalnızca cihazınızdaki Apple App Store'dan okur.
+"Reklamları Kaldır" tamamen Apple tarafından yürütülen aylık bir aboneliktir. Ödeme bilgilerinizi hiçbir zaman
+görmeyiz. Giriş yaptıysanız uygulama, aboneliğin Apple tarafından imzalanmış işlem kaydını (ürün, işlem numarası ve
+yenilenme tarihi) sunucumuza gönderir; böylece abonelik süresince oynadığınız oyunlar 2 kat coin kazandırır.
 
 **7. Teknik bilgiler**
 
@@ -201,7 +215,7 @@ için işler; örneğin istek sınırlaması yaparak. Bu adresi hesabınızla bi
 
 ### Bilgileri nasıl kullanırız
 
-- oyunu sunmak için: hesaplar, düellolar, Günlük Görev, sıralamalar, arkadaşlar ve bildirimler;
+- oyunu sunmak için: hesaplar, düellolar, Günlük Görev, sıralamalar ve bildirimler;
 - düelloları adil tutmak için; örneğin sonuçları kontrol ederek ve imkânsız çözüm sürelerini tespit ederek;
 - engelleme ve şikâyet ile topluluğu güvende tutmak için;
 - izin verirseniz analitik ve çökme raporlarıyla hataları düzeltmek ve uygulamayı geliştirmek için;
@@ -216,7 +230,7 @@ Verileri yalnızca uygulamanın bazı bölümlerini bizim adımıza çalıştır
 ### Saklama ve silme
 
 Hesap verilerinizi hesabınız var olduğu sürece saklarız. **Ayarlar → Hesabı Sil** seçeneğini kullandığınızda
-hesabınızı ve ona bağlı her şeyi kalıcı olarak sileriz: sonuçlar, istatistikler, arkadaşlar, engellemeler,
+hesabınızı ve ona bağlı her şeyi kalıcı olarak sileriz: sonuçlar, istatistikler, coin'ler, temalar, engellemeler,
 gönderdiğiniz şikâyetler ve bildirim anahtarları. Uygulamanın Apple Kimliğinize erişimini de iptal ederiz. Bitmiş
 düellolarda rakibiniz artık adınızı görmez. Yedeklerdeki kopyalar, bu yedeklerin süresi dolduğunda silinir.
 
