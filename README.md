@@ -35,11 +35,12 @@ Your display name, username, game statistics, badges and leaderboard results are
 
 **2. Game data (only if you sign in)**
 
-- battle and daily challenge results: the finished board, time, mistakes, hints and score, plus a log of the
+- results of battles and online single-player games: the finished board, time, mistakes, hints and score, plus a log of the
   moves you entered (used to check results are fair);
-- statistics such as games played, wins, losses and daily streaks;
-- your coins: what each game earned, the board themes you unlocked, and your place in the coin rankings
-  (your display name and coins earned are shown to other players there);
+- statistics such as games played, wins and losses;
+- your coins: what each game earned, the board themes and streak freezes you got, your daily login streak and
+  mission progress, your battle rating, and your place in the coin rankings (your display name and coins earned
+  are shown to other players there);
 - players you block;
 - reports you send about other players: the reason and any text you add.
 
@@ -90,7 +91,7 @@ against abuse, for example through rate limiting. We do not store it with your a
 
 ### How we use information
 
-- to provide the game: accounts, battles, daily challenges, rankings and notifications;
+- to provide the game: accounts, battles, coins and missions, rankings and notifications;
 - to keep battles fair, for example by checking results and detecting impossible solving times;
 - to keep the community safe through blocking and reports;
 - to fix bugs and improve the app, if you allow analytics and crash reports;
@@ -160,11 +161,12 @@ görünür.
 
 **2. Oyun verileri (yalnızca giriş yaparsanız)**
 
-- düello ve Günlük Görev sonuçları: bitmiş tahta, süre, hatalar, ipuçları ve puan ile girdiğiniz hamlelerin
+- düellolar ve çevrimiçi tek kişilik oyunların sonuçları: bitmiş tahta, süre, hatalar, ipuçları ve puan ile girdiğiniz hamlelerin
   kaydı (sonuçların adil olduğunu kontrol etmek için);
-- oynanan oyun, galibiyet, mağlubiyet ve günlük seri gibi istatistikler;
-- coin'leriniz: her oyunun kazandırdığı coin, açtığınız tahta temaları ve coin sıralamasındaki yeriniz
-  (sıralamada görünen adınız ve kazandığınız coin diğer oyunculara gösterilir);
+- oynanan oyun, galibiyet ve mağlubiyet gibi istatistikler;
+- coin'leriniz: her oyunun kazandırdığı coin, aldığınız tahta temaları ve seri dondurmaları, günlük giriş seriniz ve
+  görev ilerlemeniz, düello puanınız ve coin sıralamasındaki yeriniz (sıralamada görünen adınız ve kazandığınız coin
+  diğer oyunculara gösterilir);
 - engellediğiniz oyuncular;
 - diğer oyuncular hakkında gönderdiğiniz şikâyetler: neden ve eklediğiniz açıklama.
 
@@ -215,7 +217,7 @@ için işler; örneğin istek sınırlaması yaparak. Bu adresi hesabınızla bi
 
 ### Bilgileri nasıl kullanırız
 
-- oyunu sunmak için: hesaplar, düellolar, Günlük Görev, sıralamalar ve bildirimler;
+- oyunu sunmak için: hesaplar, düellolar, coin'ler ve görevler, sıralamalar ve bildirimler;
 - düelloları adil tutmak için; örneğin sonuçları kontrol ederek ve imkânsız çözüm sürelerini tespit ederek;
 - engelleme ve şikâyet ile topluluğu güvende tutmak için;
 - izin verirseniz analitik ve çökme raporlarıyla hataları düzeltmek ve uygulamayı geliştirmek için;
