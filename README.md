@@ -39,8 +39,8 @@ Your display name, username, game statistics, badges and leaderboard results are
   moves you entered (used to check results are fair);
 - statistics such as games played, wins and losses;
 - your coins: what each game earned, the board themes and streak freezes you got, your daily login streak and
-  mission progress, your battle rating, and your place in the coin rankings (your display name and coins earned
-  are shown to other players there);
+  mission progress, your battle rating, and your place in the rankings (your display name and the points you
+  scored are shown to other players there);
 - players you block;
 - reports you send about other players: the reason and any text you add.
 
@@ -165,8 +165,8 @@ görünür.
   kaydı (sonuçların adil olduğunu kontrol etmek için);
 - oynanan oyun, galibiyet ve mağlubiyet gibi istatistikler;
 - coin'leriniz: her oyunun kazandırdığı coin, aldığınız tahta temaları ve seri dondurmaları, günlük giriş seriniz ve
-  görev ilerlemeniz, düello puanınız ve coin sıralamasındaki yeriniz (sıralamada görünen adınız ve kazandığınız coin
-  diğer oyunculara gösterilir);
+  görev ilerlemeniz, düello puanınız ve sıralamadaki yeriniz (sıralamada görünen adınız ve kazandığınız puan diğer
+  oyunculara gösterilir);
 - engellediğiniz oyuncular;
 - diğer oyuncular hakkında gönderdiğiniz şikâyetler: neden ve eklediğiniz açıklama.
 
