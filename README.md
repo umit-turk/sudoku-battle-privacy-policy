@@ -1,6 +1,6 @@
 # Sudoku Battle: Brain Duel — Privacy Policy
 
-**Effective date:** 23 October 2026
+**Effective date:** 27 October 2026
 
 [English](#english) · [Türkçe](#türkçe)
 
@@ -71,9 +71,10 @@ In the European Economic Area, the United Kingdom and Switzerland you are asked 
 personalised. You can change your choice at any time in **Settings → Privacy Choices**. We only allow ads
 suitable for a general audience.
 
-When you watch a short video to double a game's coins, the app gives AdMob your Sudoku Battle account number (a
-random identifier, not your name or email) and the game it is for. Google sends these back to our server to
-confirm the video was watched, so the coins can be added.
+When you watch a short video to double a game's coins or to restore a broken login streak, the app gives AdMob
+your Sudoku Battle account number (a random identifier, not your name or email) and the game or day it is for.
+Google sends these back to our server to confirm the video was watched, so the coins can be added or the streak
+restored.
 
 Google's use of this information is described in Google's privacy policy:
 https://policies.google.com/technologies/partner-sites
@@ -197,9 +198,10 @@ Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre'de reklamlar kişiselle�
 Seçiminizi istediğiniz zaman **Ayarlar → Gizlilik Seçenekleri** bölümünden değiştirebilirsiniz. Yalnızca genel
 izleyiciye uygun reklamlara izin veriyoruz.
 
-Bir oyunun coin'lerini 2 katına çıkarmak için kısa bir video izlediğinizde, uygulama AdMob'a Sudoku Battle hesap
-numaranızı (adınız veya e-postanız değil, rastgele bir kimlik) ve videonun hangi oyun için olduğunu iletir. Google
-bunları, videonun izlendiğini doğrulamak için sunucumuza geri gönderir; böylece coin'ler eklenebilir.
+Bir oyunun coin'lerini 2 katına çıkarmak ya da bozulan giriş serinizi kurtarmak için kısa bir video izlediğinizde,
+uygulama AdMob'a Sudoku Battle hesap numaranızı (adınız veya e-postanız değil, rastgele bir kimlik) ve videonun
+hangi oyun ya da gün için olduğunu iletir. Google bunları, videonun izlendiğini doğrulamak için sunucumuza geri
+gönderir; böylece coin'ler eklenebilir ya da seri kurtarılabilir.
 
 Google'ın bu bilgileri nasıl kullandığı Google'ın gizlilik politikasında açıklanmıştır:
 https://policies.google.com/technologies/partner-sites
